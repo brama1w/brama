@@ -256,7 +256,7 @@ redes sociales fijadas en pantalla
 <nav><FONT FACE="impact" SIZE=3 COLOR="white">
  
 Copiar
- <br>          Dirección del token
+ <br>          Dirección del token.
 <br>
                             0x2a771F074916b87F70C5371d1FB32A397e5680f4
 </font>
